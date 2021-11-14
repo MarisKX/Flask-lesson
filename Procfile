@@ -1,1 +1,1 @@
-web:pythongit run.py
+web:python run.py
